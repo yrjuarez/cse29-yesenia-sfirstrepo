@@ -7,3 +7,4 @@ Favorite color: purple 💜
 
 Favorite UCSD spot: CSE basement
 
+![Justin Beiber giving inspirational message](./32bf752eb093b7531cb5d1eb5b686b4a.png)
